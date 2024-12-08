@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pipolido.pipolido" />
+
 
 <h1 align="center">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Achtout+Mohamed!;" />
-</h1> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Achtout+Mohamed!;" />
+</h1>
 
 <h3 align="center">A student from Morocco</h3>
 
@@ -12,7 +12,7 @@
  
  
  
- 🌱 I’m currently learning **Java,Python**
+
 
 💬 Ask me about **C,C++,PHP,SQL...**
 
@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,c,mysql,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,c,mysql,cpp,java" /><br>
 </div>
 
 <br/>
